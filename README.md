@@ -1,7 +1,5 @@
 ### Hi there 👋
-Myself Satyam Shukla and I'm a sophomore at IIT Guwahati.
-I’m currently working on Fake Currency Detector Project based on Machine Learning.
-I’m currently learning Data Structures and Algorithms.
+Myself Satyam Shukla and I'm a sophomore at IIT Guwahati
 
 <!--
 **satyamshxkla/satyamshxkla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
