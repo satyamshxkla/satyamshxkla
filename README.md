@@ -1,5 +1,5 @@
 ### Hi there 👋
-Myself Satyam Shukla and I'm a sophomore at IIT Guwahati
+Myself Satyam Shukla and I'm currently final-yearite at IIT Guwahati 
 
 <!--
 **satyamshxkla/satyamshxkla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
